@@ -1,0 +1,4 @@
+{
+    "command": "python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/intern-log-management-system-41172-41190/intern_logs_backend"
+}
